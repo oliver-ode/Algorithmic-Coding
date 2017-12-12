@@ -1,4 +1,5 @@
 package CCC_J2;
+
 import java.util.Scanner;
 public class voteCount {
     public static void main(String[] args) {

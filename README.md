@@ -1,7 +1,7 @@
 # Algorithmic-Coding
 This repository has lots of my solutions for the CCC and other algorithmic coding problems. The solutions will be in Python 3 or Java. More of the solutions coming out will be in Java as I have transitioned languages.
 
-A directory for all of the files is in the DIRECTORY.md file. All of the questions are in QUESTIONS.md.
+A directory for all of the files is in the DIRECTORY.md file.
 
 This has some complete and incoplete solutions for several different algorithmic challenges as listed below:
 - CCC

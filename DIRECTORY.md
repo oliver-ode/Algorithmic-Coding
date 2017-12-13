@@ -17,6 +17,7 @@
     - [nextInLine.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CCC_J1/nextInLine.py)
     - [quadrantSelection.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CCC_J1/quadrantSelection.py)
     - [specialDay.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CCC_J1/specialDay.py)
+    - ANYTHING BELOW HERE IS NOT YET FULLY ADDED HERE YET ***WARNING***
     - [speedFinesAreNotFine.py]()
     - [squares.py]()
     - [theCellSell.py]()
@@ -36,6 +37,6 @@
     - [middleWay.py]()
     - [reverse3.py]()
     - [rotateLeft3.py]()
-    - sameFirstLast.py()
-    - sum2.py()
-    - sum3.py()
+    - [sameFirstLast.py]()
+    - [sum2.py]()
+    - [sum3.py]()

@@ -1,3 +1,5 @@
+***If any of the links do not work please email me at theoodev@gmail.com***
+
 - [Java](https://github.com/yodasnow/Algorithmic-Coding/tree/master/Java)
   - [src](https://github.com/yodasnow/Algorithmic-Coding/tree/master/Java/src)
     - [src](https://github.com/yodasnow/Algorithmic-Coding/tree/master/Java/src/src)
@@ -31,7 +33,7 @@
     - [firstLast6.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CodingBat_List1/firstLast6.py)
     - [has23.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CodingBat_List1/has23.py)
     - [makeEnds.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CodingBat_List1/makeEnds.py)
-    - [makeEnd3.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CodingBat_List1/makeEnd3.py)
+    - [maxEnd3.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CodingBat_List1/maxEnd3.py)
     - [makePi.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CodingBat_List1/makePi.py)
     - [middleWay.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CodingBat_List1/middleWay.py)
     - [reverse3.py](https://github.com/yodasnow/Algorithmic-Coding/blob/master/Python/CodingBat_List1/reverse3.py)

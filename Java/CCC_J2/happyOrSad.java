@@ -1,5 +1,3 @@
-package CCC_J2;
-
 import java.util.Scanner;
 public class happyOrSad {
     public static void main(String[] args) {

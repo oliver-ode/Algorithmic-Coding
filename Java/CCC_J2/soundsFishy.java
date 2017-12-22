@@ -1,7 +1,5 @@
-package CCC_J2;
-
 import java.util.Scanner;
-public class soundsFishyy {
+public class soundsFishy {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int height1 = scan.nextInt();

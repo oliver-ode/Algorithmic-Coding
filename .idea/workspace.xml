@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="775f2084-cc04-4eef-be3e-744d5f50ad03" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/project.xcworkspace/xcuserdata/oliver.odendaal.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/xcuserdata/oliver.odendaal.xcuserdatad/xcschemes/C++.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/xcuserdata/oliver.odendaal.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/CCC_J2/happyOrSad.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/CCC_J3/rovarspraket.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/Java.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J1/canadianCalorieCounting.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/happyOrSad.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/rollTheDice.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/rsaNumbers.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/soundsFishy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/voteCount.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/whoHasSeenTheWind.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J3/cellPhoneMessaging.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J4/itsToughBeingATeen.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J5/cccOthello.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/Java.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/canadianCalorieCounting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/cccOthello.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/cellPhoneMessaging.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/happyOrSad.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/itsToughBeingATeen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/rollTheDice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/rsaNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/soundsFishy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/voteCount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/whoHasSeenTheWind.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/.idea/Python.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/0123456789.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/bodyMassIndex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/calendar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/canadianCalorieCounting.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/isbn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/nextInLine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/quadrantSelection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/specialDay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/speedFinesAreNotFine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/squares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/theCellSell.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/tournamentSelection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/triangleTimes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/trident.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/whatIsNDaddy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/whichAlien.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/whoIsInTheMiddle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/commonEnd.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/firstLast6.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/has23.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/makeEnds.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/makePi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/maxEnd3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/middleWay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/reverse3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/rotateLeft3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/sameFirstLast.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/sum2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/sum3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/bigDiff.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/centeredAverage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/countEvens.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/has22.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/sum13.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/sum67.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/alarmClock.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/caughtSpeeding.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/cigarParty.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/dateFashion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/in1To10.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/love6.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/nearTen.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/sortaSum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/squirrelPlay.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/closeFar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/loneSum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/luckySum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/makeBricks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/makeChocolate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/noTeenSum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/roundSum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/comboString.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/extraEnd.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/firstHalf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/firstTwo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/helloName.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/left2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/makeABBA.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/makeOutWord.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/makeTags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/nonStart.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/withoutEnd.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/catDog.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/countCode.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/countHi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/doubleChar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/endOther.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/xyzThere.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/diff21.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/front3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/frontBack.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/makes10.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/missingChar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/monkeyTrouble.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/nearHundred.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/notString.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/parrotTrouble.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/posNeg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/sleepIn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/sumDouble.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/array13.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/arrayCount9.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/arrayFront9.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/frontTimes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/last2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/stringBits.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/stringMatch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/stringSplosion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/stringTimes.py" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="0123456789.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CCC/J1/0123456789.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithmic-Coding New File Structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic-Coding New File Structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmic-Coding New File Structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic-Coding New File Structure" type="462c0819:PsiDirectoryNode" />
+              <item name="CCC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmic-Coding New File Structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic-Coding New File Structure" type="462c0819:PsiDirectoryNode" />
+              <item name="CCC" type="462c0819:PsiDirectoryNode" />
+              <item name="J1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithmic-Coding New File Structure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic-Coding New File Structure" type="462c0819:PsiDirectoryNode" />
+              <item name="CodingBat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.0123456789">
+    <configuration name="0123456789" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CCC/J1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithmic-Coding New File Structure" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CCC/J1/0123456789.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.0123456789" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="775f2084-cc04-4eef-be3e-744d5f50ad03" name="Default" comment="" />
+      <created>1516306156425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516306156425</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CCC/J2/happyOrSad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCC/J1/0123456789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Algorithmic-Coding New File Structure</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

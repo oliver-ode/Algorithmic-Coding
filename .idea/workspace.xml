@@ -2,132 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="775f2084-cc04-4eef-be3e-744d5f50ad03" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/project.pbxproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/project.xcworkspace/xcuserdata/oliver.odendaal.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/xcuserdata/oliver.odendaal.xcuserdatad/xcschemes/C++.xcscheme" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/C++.xcodeproj/xcuserdata/oliver.odendaal.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/CCC_J2/happyOrSad.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C++/CCC_J3/rovarspraket.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/Java.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J1/canadianCalorieCounting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/happyOrSad.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/rollTheDice.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/rsaNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/soundsFishy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/voteCount.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J2/whoHasSeenTheWind.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J3/cellPhoneMessaging.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J4/itsToughBeingATeen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/CCC_J5/cccOthello.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/Java.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/canadianCalorieCounting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/cccOthello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/cellPhoneMessaging.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/happyOrSad.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/itsToughBeingATeen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/rollTheDice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/rsaNumbers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/soundsFishy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/voteCount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/out/production/Java/whoHasSeenTheWind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/.idea/Python.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/0123456789.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/bodyMassIndex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/calendar.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/canadianCalorieCounting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/isbn.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/nextInLine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/quadrantSelection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/specialDay.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/speedFinesAreNotFine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/squares.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/theCellSell.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/tournamentSelection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/triangleTimes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/trident.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/whatIsNDaddy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/whichAlien.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CCC_J1/whoIsInTheMiddle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/commonEnd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/firstLast6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/has23.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/makeEnds.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/makePi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/maxEnd3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/middleWay.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/reverse3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/rotateLeft3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/sameFirstLast.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/sum2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List1/sum3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/bigDiff.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/centeredAverage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/countEvens.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/has22.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/sum13.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_List2/sum67.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/alarmClock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/caughtSpeeding.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/cigarParty.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/dateFashion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/in1To10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/love6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/nearTen.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/sortaSum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic1/squirrelPlay.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/closeFar.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/loneSum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/luckySum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/makeBricks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/makeChocolate.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/noTeenSum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Logic2/roundSum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/comboString.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/extraEnd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/firstHalf.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/firstTwo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/helloName.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/left2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/makeABBA.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/makeOutWord.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/makeTags.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/nonStart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String1/withoutEnd.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/catDog.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/countCode.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/countHi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/doubleChar.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/endOther.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_String2/xyzThere.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/diff21.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/front3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/frontBack.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/makes10.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/missingChar.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/monkeyTrouble.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/nearHundred.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/notString.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/parrotTrouble.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/posNeg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/sleepIn.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup1/sumDouble.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/array13.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/arrayCount9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/arrayFront9.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/frontTimes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/last2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/stringBits.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/stringMatch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/stringSplosion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/CodingBat_Warmup2/stringTimes.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CCC/S3/absolutelyAcidic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project Euler/problem1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project Euler/problem2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project Euler/problem3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -137,12 +16,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="0123456789.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CCC/J1/0123456789.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="absolutelyAcidic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CCC/S3/absolutelyAcidic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="30">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project Euler/problem2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="problem3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project Euler/problem3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,12 +49,29 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CCC/S3/absolutelyAcidic.py" />
+        <option value="$PROJECT_DIR$/Project Euler/problem1.py" />
+        <option value="$PROJECT_DIR$/Project Euler/problem2.py" />
+        <option value="$PROJECT_DIR$/Project Euler/problem3.py" />
+      </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
@@ -188,35 +104,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Algorithmic-Coding New File Structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithmic-Coding New File Structure" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithmic-Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic-Coding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Algorithmic-Coding New File Structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithmic-Coding New File Structure" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithmic-Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic-Coding" type="462c0819:PsiDirectoryNode" />
               <item name="CCC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Algorithmic-Coding New File Structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithmic-Coding New File Structure" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithmic-Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic-Coding" type="462c0819:PsiDirectoryNode" />
               <item name="CCC" type="462c0819:PsiDirectoryNode" />
-              <item name="J1" type="462c0819:PsiDirectoryNode" />
+              <item name="S3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Algorithmic-Coding New File Structure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithmic-Coding New File Structure" type="462c0819:PsiDirectoryNode" />
-              <item name="CodingBat" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithmic-Coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithmic-Coding" type="462c0819:PsiDirectoryNode" />
+              <item name="Project Euler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -240,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0123456789">
+  <component name="RunManager" selected="Python.problem3">
     <configuration name="0123456789" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,9 +255,88 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <configuration name="absolutelyAcidic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CCC/S3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithmic-Coding New File Structure" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CCC/S3/absolutelyAcidic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project Euler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithmic-Coding New File Structure" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project Euler/problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="problem2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project Euler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithmic-Coding New File Structure" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project Euler/problem2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="problem3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project Euler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Algorithmic-Coding New File Structure" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project Euler/problem3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.0123456789" />
+      <item index="1" class="java.lang.String" itemvalue="Python.absolutelyAcidic" />
+      <item index="2" class="java.lang.String" itemvalue="Python.problem1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.problem2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.problem3" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.0123456789" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.problem3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.problem2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.problem1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.absolutelyAcidic" />
+        <item index="4" class="java.lang.String" itemvalue="Python.0123456789" />
       </list>
     </recent_temporary>
   </component>
@@ -360,18 +355,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -398,6 +394,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CCC/S3/absolutelyAcidic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCC/J1/0123456789.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CCC/J2/happyOrSad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -408,7 +419,38 @@
     <entry file="file://$PROJECT_DIR$/CCC/J1/0123456789.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCC/S3/absolutelyAcidic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project Euler/problem2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project Euler/problem1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project Euler/problem3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>

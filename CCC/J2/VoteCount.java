@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class voteCount {
+public class VoteCount {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int numOfVotes = scan.nextInt();

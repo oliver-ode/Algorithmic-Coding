@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class happyOrSad {
+public class HappyOrSad {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String msg = scan.nextLine();

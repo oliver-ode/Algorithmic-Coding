@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class rsaNumbers {
+public class RSANumbers {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int lowerBound = scan.nextInt();

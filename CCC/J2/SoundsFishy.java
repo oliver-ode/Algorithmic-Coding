@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class soundsFishy {
+public class SoundsFishy {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int height1 = scan.nextInt();

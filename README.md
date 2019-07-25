@@ -6,5 +6,5 @@ This has some complete and incomplete solutions for several different algorithmi
   - [Competition Info](http://www.cemc.uwaterloo.ca/contests/computing.html)
   - [Problems](https://dmoj.ca/problems/?category=4)
 - [CodingBat](http://codingbat.com)
-- [Project Euler](https://projecteuler.net) (Nothing added yet but will)
+- [Project Euler](https://projecteuler.net)
 - [Advent of Code](https://adventofcode.com) (Nothing added yet but will)

@@ -3,30 +3,18 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class AssigningPartners {
+public class BridgeTransport {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
-    public static int find(String[] s, String _s){
-        for(int i = 0; i < s.length; i++){
-            if(s[i].equals(_s)) return(i);
-        }
-        return(-1);
-    }
     public static void main(String[] args) throws IOException{
+        int W = readInt();
         int N = readInt();
-        String[] A = readLine().split(" ");
-        String[] B = readLine().split(" ");
-        if(N%2==1){
-            System.out.println("bad");
-            System.exit(0);
-        }
+        int[] C = new int[N];
         for(int i = 0; i < N; i++){
-            if(find(A, B[i]) != find(B, A[i])){
-                System.out.println("bad");
-                System.exit(0);
-            }
+            C[i] = readInt();
         }
-        System.out.println("good");
+        int[] c = new int[4];
+
     }
     static String next () throws IOException {
         while (st == null || !st.hasMoreTokens())

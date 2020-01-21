@@ -28,9 +28,9 @@ int main(){
     houses[right-1] = true;
   }
 
-  for(; right < n; right++, left++){
+  for(; right <= n; right++, left++){
     cout<<"Left:"<<left<<", Right:"<<right<<endl;
-    if(cams < 2) {
+    if(cams == 1) {
       houses[right] = true;
       tot++;
       cams++;

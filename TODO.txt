@@ -1,0 +1,2 @@
+Regular 2D Knapsack Problem
+1D Knapsack Problem

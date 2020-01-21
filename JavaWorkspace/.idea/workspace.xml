@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="440b292b-0efd-4e20-a335-9aead529e6a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BufferedReaderTemplate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/bodyMassIndex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/calander.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/canadianCalorieCounting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/isbn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/nextInLine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/quadrantSelection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/specialDay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/speedFinesAreNotFine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/squares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/theCellSell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/tournamentSelection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/triangleTimes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/trident.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/whatIsNDaddy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/whichAlien.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J1/whoIsInTheMiddle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/HappyOrSad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/RSANumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/SoundsFishy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/VoteCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/WhoHasSeenTheWind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/ameriCanadian.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/happyOrSad.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/magicSquares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/rotatingLetters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/rsaNumbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J2/soundsFishy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J3/ExactlyElectrical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J3/goodTimes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J3/hiddenPalindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J3/returningHome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J3/slotMachines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J4/WhereToBuildMyHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J4/simpleEncryption.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J5/Unfriend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/J5/tandemBicycle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S1/SumGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S1/VoronoiVillages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S1/ZeroThatOut.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S1/computerPurchase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S1/dontPassMeTheBall.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S1/dontPassMeTheBall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S1/partyInvitation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S1/voronoiVillages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S2/AssigningPartners.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S2/Boxes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S2/BridgeTransport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S2/HighTideLowTide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S2/Jerseys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S2/Sunflowers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S2/multipleChoice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S2/tandemBicycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S3/AbsolutelyAcidic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S3/Gates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S3/GenevaConfection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S3/PhonomenalReviews.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S3/genevaConfection.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CCC/S3/strategicBombing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ICPC/cameras.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ICPC/cameras.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uncompleted Problems" beforeDir="false" afterPath="$PROJECT_DIR$/../Uncompleted Problems" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DiverseSubarray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DiverseSubarray.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1416" />
+    <option name="height" value="853" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="f" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWorkspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="f" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="440b292b-0efd-4e20-a335-9aead529e6a7" name="Default Changelist" comment="" />
+      <created>1571511743955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571511743955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BufferedReaderTemplate">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="true" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiverseSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

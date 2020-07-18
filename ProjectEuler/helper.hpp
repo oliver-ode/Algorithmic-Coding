@@ -3,6 +3,7 @@
 #include <string>
 #include <math.h>
 #include <cstring>
+#include <algorithm>
 
 typedef uint64_t lint; //Large int
 

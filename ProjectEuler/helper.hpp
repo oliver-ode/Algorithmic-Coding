@@ -4,6 +4,7 @@
 #include <math.h>
 #include <cstring>
 #include <algorithm>
+#include <bitset>
 
 typedef uint64_t lint; //Large int
 
